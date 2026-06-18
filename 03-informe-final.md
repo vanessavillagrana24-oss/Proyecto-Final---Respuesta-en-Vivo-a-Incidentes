@@ -3,7 +3,7 @@
 **Organización:** 4Geeks Academy
 **Sistema afectado:** `4geeks-server` — Ubuntu 20.04.6 LTS (kernel 5.4.0-216) · VirtualBox · IP 192.168.1.127
 **Tipo de respuesta:** Live Incident Response (sistema activo, no se apaga)
-**Analista:** _[tu nombre]_ · **Fecha del análisis:** 13 jun 2026
+**Analista:** VVV · **Fecha del análisis:** 13 jun 2026
 
 ---
 
